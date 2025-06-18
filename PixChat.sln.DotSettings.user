@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\nykol\AppData\Local\JetBrains\Rider2023.2\resharper-host\temp\Rider\vAny\CoverageData\_PixChat.890072942\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a5f4c8c_002Dd570_002D4622_002D9337_002D8238ed1a48c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AuthControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.AuthControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.ChatControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.ContactsControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.KeysControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.UsersControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.ChatServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.ContactServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.EncryptionServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.JwtTokenServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.KeyServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.OneTimeMessageServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.OfflineMessageServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.ParticipantServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.SteganographyServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.TwoFactorServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::PixChat.Tests.UserServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::KeyServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C07D349-2BCF-477A-933C-F5BD866AF0E0::net8.0::OfflineMessageServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
